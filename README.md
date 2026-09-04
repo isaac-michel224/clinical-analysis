@@ -33,11 +33,3 @@ For the model to provide unbiased estimates, several assumptions must be met.
 These include the assumption of a binary dependent variable, independent observations, and a linear relationship between the predictors and the log odds of the outcome. 
 It also assumes no perfect multicollinearity among the predictors, which ensures that each predictor's effect can be uniquely estimated. 
 The model requires that all relevant predictors be included to avoid omitted variable bias and that the sample size is sufficiently large to provide stable estimates. 
-
-## Notes on Graph
-
-Notably, black patients exhibit a higher mortality risk than white patients in conditions such as heart failure, 
-aortic valve surgery, chronic obstructive pulmonary disease, heart bypass surgery, and lung cancer surgery. 
-Specifically, the difference is most pronounced in heart failure, with a risk difference of approximately 0.04. 
-Conversely, procedures like hip replacement, knee replacement, and abdominal aortic aneurysm repair show minimal racial disparity in mortality risk. 
-This data underscores significant healthcare disparities that vary by treatment type.
